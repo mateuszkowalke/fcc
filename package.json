@@ -3,6 +3,7 @@
 	"author": "kowalkem",
 	"description": "FCC node and npm coding challenges boiletplate",
 	"keywords": [ "freecodecamp", "descriptive", "related", "words" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
