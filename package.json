@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "kowalkem",
 	"description": "FCC node and npm coding challenges boiletplate",
+	"keywords": [ "descriptive", "related", "words" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
